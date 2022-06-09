@@ -9,6 +9,7 @@ class App extends Component {
      
     ]
   };
+  
 
   addTodo = (x) => {
     x.id = Math.random();
